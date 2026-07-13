@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:BC8CFF&height=180&section=header&text=Dharlison%20Dhovan&fontSize=42&fontColor=fff&animation=twinkling" alt="Header" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+em+formação;Apaixonado+por+tecnologia;Bem-vindo(a)+ao+meu+GitHub!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+em+formacao%3BApaixonado+por+tecnologia%3BBem-vindo+ao+meu+GitHub%21" alt="Typing SVG" />
 
 <br/>
 
@@ -17,8 +17,8 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=DharlisonDhovan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DharlisonDhovan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+<img height="165" src="https://github-readme-stats.shion.dev/api?username=DharlisonDhovan&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br&rank_icon=github" alt="GitHub Stats"/>
+<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=DharlisonDhovan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 
 <br/>
 
@@ -30,7 +30,8 @@
 
 <br/>
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=DharlisonDhovan&theme=tokyonight&no-frame=true&column=4&margin-w=8&margin-h=8" alt="GitHub Trophies"/>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DharlisonDhovan&theme=tokyonight" alt="Profile Details"/>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DharlisonDhovan&theme=tokyonight" alt="Most Commit Language"/>
 
 </div>
 
